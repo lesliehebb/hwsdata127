@@ -6,9 +6,14 @@
 
 ### Slope of a straight line
 
-$\frac{rise}{run} = \frac{\Delta x}{\Delta y}$
+1. $\frac{rise}{run} = \frac{\Delta x}{\Delta y}$
 
-*Give kids a line on a graph and ask them to find the slope*
+	1. *Give kids a line on a graph and ask them to find the slope*
+
+2. Relate to a real variable:  
+	1. slope of a ski hill:  x = distance, y=height, slope=steepness of hill
+	2. if x = time, y=position, slope=speed
+	3. if x = time, y=velocity, slope = acceleration
 
 
 
