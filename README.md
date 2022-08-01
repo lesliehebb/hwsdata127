@@ -8,12 +8,19 @@
 
 1. $\frac{rise}{run} = \frac{\Delta x}{\Delta y}$
 
-	*Give kids a line on a graph and ask them to find the slope*
+	- show positive slope, negative slope and zero slope (flat)
+	- Practice: a line on a graph and ask them to find the slope
+	
 
 2. Relate to a real variable:  
-	1. slope of a ski hill:  x = distance, y=height, slope=steepness of hill
-	2. if x = time, y=position, slope=speed
-	3. if x = time, y=velocity, slope = acceleration
+	1. Examples:  
+		- slope of a ski hill:  x = distance, y=height, slope=steepness of hill
+		- x = quantity of cookie boxes, y = total cost to buy, slope= cost per box of cookies 
+	2. Rate examples:  if the x-axis variable is time, we call the slope a rate
+	 	- x = time, y=position, slope= rate of change of distance (speed)
+		- x = time, y=velocity, slope = rate of change of speed (acceleration)
+		- x = year, y = unemployment percentage, slope = change in unemployment 
+	
 
 
 
