@@ -2,6 +2,13 @@
 
 ## Part 0:  What is a function? (Week 1)
 
+### What is a function?
+	1. A rule that uses an input to get an output.  
+	<img src="functionFactory.png">
+
+	2. Usually a formula or a procedure -- every time I put the same input into the formula or procedure, I get the same output.
+
+
 ## Part 1:  Derivative Machine (Week 2-4)
 
 ### Slope of a straight line (Week 2, Tuesday)
@@ -25,12 +32,16 @@
 
 ### Slope at a single point (Week 2, Thursday)
 
-	- What if the function is not a straight line, the slope changes, so we need to consider the idea of slope at a single point
-	- Draw a curve, pick a point far away, calculate rise over run.  Move the point closer, calculate rise over run.   Eventually introduce the idea of a tangent line. 
-	- Can't calculate slope using rise/run from a single point, but we have a "machine" that does calculate the slope from a single.  Called a **derivative**
+1. What if the function is not a straight line?  
+
+	- the slope is changing
+	- need to consider the idea of slope at a single point
+	- Introduce idea of tangent line:  (draw a curve and mark a point, pick a point far away, calculate rise over run, and draw the slope.  Move the point closer and repeat.  Move the point closer again and repeat...then move the point on top of the original point and draw the tangent line)
+	-  What is the slope of the tangent line?  Can't calculate slope using rise/run from a single point, but we have a "machine" that does.  Called a **derivative**
 	- We'll learn how the machine works, but first let's learn how to use the derivative to find the slope at a point
 
 ### Derivative rules  (Week 3)
+
 	- $$ x^n $$ rule
 	- special derivatives to memorize (sin(x), cos(x), $e^x$, ln(x), log(x)
 	- chain rule
