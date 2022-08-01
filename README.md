@@ -8,7 +8,7 @@
 
 1. $\frac{rise}{run} = \frac{\Delta x}{\Delta y}$
 
-	1. *Give kids a line on a graph and ask them to find the slope*
+	*Give kids a line on a graph and ask them to find the slope*
 
 2. Relate to a real variable:  
 	1. slope of a ski hill:  x = distance, y=height, slope=steepness of hill
