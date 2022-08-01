@@ -4,7 +4,7 @@
 
 ### What is a function?
 	1. A rule that uses an input to get an output.  
-	<img src="functionFactory.png">
+	![factory Function](functionFactory.png "Function Machine")
 
 	2. Usually a formula or a procedure -- every time I put the same input into the formula or procedure, I get the same output.
 
