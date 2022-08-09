@@ -1,6 +1,20 @@
 # DATA 127
 
-## Part 0:  What is a function? (Week 1)
+## Part -1:  Basic R. (Week 1)
+
+1. Syllabus.   Basic R programming.   
+	1. Using comments with #
+	2. Calling a function:  print()
+	3. Assigning variables with <-
+	4. Rstudio layout
+	5. Basic data types:  character, numeric, integer, logical, and complex and the class() function
+	6. Simple math operations (+-*/^) with numbers and variables
+	7. Some higher level math functions (sqrt(), log10(), exp(), sin(), cos(), tan()
+	8. Creating a vector and accessing elements of a vector.
+	
+2. How to write a programming function in R.  Basic graphing with ggplot.
+
+## Part 0:  What is a function? (Week 2)
 
 ### What is a function?
 	1. A rule that uses an input to get an output.  
@@ -9,7 +23,7 @@
 	2. Usually a formula or a procedure -- every time I put the same input into the formula or procedure, I get the same output.
 
 
-## Part 1:  Derivative Machine (Week 2-4)
+## Part 1:  Derivative Machine (Week 3-5)
 
 ### Slope of a straight line (Week 2, Tuesday)
 
