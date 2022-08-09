@@ -1,6 +1,6 @@
 # DATA 127
 
-## Part -1:  Basic R. (Week 1)
+## Part 0:  Basic R. (Week 1)
 
 1. Syllabus.   Basic R programming.   
 	1. Using comments with #
@@ -14,7 +14,7 @@
 	
 2. How to write a programming function in R.  Basic graphing with ggplot.
 
-## Part 0:  What is a function? (Week 2)
+## Part 1:  What is a function? (Week 2)
 
 ### What is a function?
 	1. A rule that uses an input to get an output.  
@@ -23,9 +23,9 @@
 	2. Usually a formula or a procedure -- every time I put the same input into the formula or procedure, I get the same output.
 
 
-## Part 1:  Derivative Machine (Week 3-5)
+## Part 2:  Derivative Machine (Week 3-5)
 
-### Slope of a straight line (Week 2, Tuesday)
+### Slope of a straight line (Week 3, Tuesday)
 
 1. $\frac{rise}{run} = \frac{\Delta x}{\Delta y}$
 
@@ -44,7 +44,7 @@
 		- x = time (minutes), y = number of blinks, slope = rate of blinking
 		- x = hours, y = payment in dollars, slope = rate of earnings ($12.50/hr)
 
-### Slope at a single point (Week 2, Thursday)
+### Slope at a single point (Week 3, Thursday)
 
 1. What if the function is not a straight line?  
 
@@ -54,7 +54,7 @@
 	-  What is the slope of the tangent line?  Can't calculate slope using rise/run from a single point, but we have a "machine" that does.  Called a **derivative**
 	- We'll learn how the machine works, but first let's learn how to use the derivative to find the slope at a point
 
-### Derivative rules  (Week 3)
+### Derivative rules  (Week 4)
 
 	- $$ x^n $$ rule
 	- special derivatives to memorize (sin(x), cos(x), $e^x$, ln(x), log(x)
@@ -62,9 +62,12 @@
 	- product rule and special case of product rule (quotient rule)
 	- linear combinations of these rules
 
-### Introduce Limits to explain why the machine works the way it does (Week 4)
+### Introduce Limits to explain why the machine works the way it does (Week 5)
+
+### Exam and Project Work (Week 6)
       
 	
+## Part 3:  Integration Machine (Week 3-5)
 
 
 
